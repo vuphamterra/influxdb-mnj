@@ -1,0 +1,78 @@
+{
+  "kv": {
+    "fileName": "20220811T111359Z.bolt",
+    "size": 98304
+  },
+  "files": [
+    {
+      "organizationID": "c681445d96a3c460",
+      "organizationName": "live247",
+      "bucketID": "f6315a4bf89b6b4c",
+      "bucketName": "emr_dev",
+      "shardID": 1,
+      "fileName": "20220811T111359Z.s1.tar.gz",
+      "size": 84159719,
+      "lastModified": "2022-08-11T11:14:18.18438604Z"
+    },
+    {
+      "organizationID": "c681445d96a3c460",
+      "organizationName": "live247",
+      "bucketID": "f6315a4bf89b6b4c",
+      "bucketName": "emr_dev",
+      "shardID": 2,
+      "fileName": "20220811T111359Z.s2.tar.gz",
+      "size": 98377811,
+      "lastModified": "2022-08-11T11:14:38.661019392Z"
+    },
+    {
+      "organizationID": "c681445d96a3c460",
+      "organizationName": "live247",
+      "bucketID": "f6315a4bf89b6b4c",
+      "bucketName": "emr_dev",
+      "shardID": 3,
+      "fileName": "20220811T111359Z.s3.tar.gz",
+      "size": 105414223,
+      "lastModified": "2022-08-11T11:15:01.117714106Z"
+    },
+    {
+      "organizationID": "c681445d96a3c460",
+      "organizationName": "live247",
+      "bucketID": "f6315a4bf89b6b4c",
+      "bucketName": "emr_dev",
+      "shardID": 4,
+      "fileName": "20220811T111359Z.s4.tar.gz",
+      "size": 8563155,
+      "lastModified": "2022-08-11T11:15:02.789765836Z"
+    },
+    {
+      "organizationID": "c681445d96a3c460",
+      "organizationName": "live247",
+      "bucketID": "f6315a4bf89b6b4c",
+      "bucketName": "emr_dev",
+      "shardID": 5,
+      "fileName": "20220811T111359Z.s5.tar.gz",
+      "size": 5503737,
+      "lastModified": "2022-08-11T11:15:03.49778774Z"
+    },
+    {
+      "organizationID": "c681445d96a3c460",
+      "organizationName": "live247",
+      "bucketID": "f6315a4bf89b6b4c",
+      "bucketName": "emr_dev",
+      "shardID": 6,
+      "fileName": "20220811T111359Z.s6.tar.gz",
+      "size": 10396092,
+      "lastModified": "2022-08-11T11:15:04.829828951Z"
+    },
+    {
+      "organizationID": "c681445d96a3c460",
+      "organizationName": "live247",
+      "bucketID": "f6315a4bf89b6b4c",
+      "bucketName": "emr_dev",
+      "shardID": 7,
+      "fileName": "20220811T111359Z.s7.tar.gz",
+      "size": 4192804,
+      "lastModified": "2022-08-11T11:15:05.421847267Z"
+    }
+  ]
+}
